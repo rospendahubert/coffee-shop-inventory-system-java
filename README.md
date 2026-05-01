@@ -37,10 +37,10 @@ This project demonstrates my ability to design and implement a structured Java a
 
 ## How to Run
 
-1. Make sure Java is installed on your system
+1. Make sure Java is installed
 
-2. Compile the project:
-   javac src/*.java
+2. Compile:
+   javac *.java
 
-3. Run the program:
-   java -cp src Menu
+3. Run:
+   java Menu
