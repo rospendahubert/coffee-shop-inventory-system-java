@@ -29,3 +29,7 @@ This project is a Java-based application designed to manage a coffee shop's inve
 
 ## Outcome
 This project demonstrates my ability to design and implement a structured Java application with persistent data storage.
+## Folder Structure
+
+- src/ → Contains all Java source code files  
+- data/ → Stores inventory data used by the application  
